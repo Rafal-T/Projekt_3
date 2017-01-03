@@ -1,0 +1,168 @@
+body {
+    /* background-color: #222222;
+     font-size: 24px;
+     color:white; */
+    background-image: url("../../Obrazy/tlo.jpeg");
+    background-size: cover;
+}
+
+
+label {
+    color: white;
+}
+
+
+span {
+    color: white;
+}
+
+input[type="file"] {
+    color: white;
+}
+#tabela {
+    margin: auto;
+    width: 21%;
+}
+
+#tabela2 {
+    margin: auto;
+    width: 40%;
+}
+
+label {
+    /* Other styling.. */
+    text-align: right;
+    clear: both;
+    float:left;
+    margin-right:15px;
+}
+
+#czysc {
+    clear: both;
+    margin-right: 0px;
+}
+
+#submitid {
+    clear: both;
+    margin-left: 0px;
+}
+
+
+
+#my-table{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto; 
+    width: auto;    
+}
+
+#tabela input {
+    margin-left: 2px;
+}
+
+table{
+    border: 1px solid black;
+    table-layout: fixed;
+}
+
+th, td {
+    border: 1px solid black;
+    overflow: hidden;
+    min-width: 75px;
+}
+
+
+
+h1 {  
+    margin-left: 70px;  
+}  
+form li {  
+    list-style: none;  
+    margin-bottom: 5px;  
+}  
+
+form ul li label{  
+    float: left;  
+    clear: left;  
+    width: 100px;  
+    text-align: right;  
+    margin-right: 10px;  
+    font-family:Verdana, Arial, Helvetica, sans-serif;  
+    font-size:14px;  
+}  
+
+form ul li input, select, span {  
+    float: left;  
+    margin-bottom: 10px;  
+}  
+
+form textarea {  
+    float: left;  
+    width: 350px;  
+    height: 150px;  
+}  
+
+[type="submit"] {  
+    clear: left;  
+    margin: 20px 0 0 230px;  
+    font-size:18px  
+}  
+
+p {  
+    margin-left: 70px;  
+    font-weight: bold;  
+}  
+
+input.date {
+    width: 150px;
+    color: #000;
+}
+
+#proin {
+    position: fixed;
+    right: 50px;
+    margin: 5px;
+    bottom: 10px;
+}
+
+
+
+#stopka {
+    clear: both;
+    position: fixed;
+    bottom: 1px;
+    margin-left: 40%;
+    width: 200px;
+}
+/*
+// nowe
+*/
+
+#wroc {
+    margin-left: 45%;
+    width: 20px;
+}
+
+#wroc a {
+    color: white;
+}
+
+#wyloguj a {
+    color: white;
+}
+
+#wyloguj {
+    margin-left: 33%;
+    margin-bottom: 10px;
+}
+
+#valid {
+    padding-top: 10px;
+}
+
+#asd {
+    margin: auto;
+    width: 400px;
+    color: white;
+}
+
